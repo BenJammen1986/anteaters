@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+#topTitle {
+  text-align: center;
+}
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.topTitle {
+  text-align: center;
+}
+
+.anteaterShowing {
+  display: none;
+}
